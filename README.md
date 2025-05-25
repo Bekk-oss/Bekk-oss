@@ -1,10 +1,27 @@
-- 👋 Hi, I’m Bek. 
-- 👀 I’m not interested in it
-- 🌱 I’m currently learning AI. 
+# 👋 Hi, I’m Bek
 
-Do not reach me at bekhbat.davatseren@torontomu.ca
+> “If it compiles, ship it.” – Ancient Proverb
 
-<!---
-Bekk-oss/Bekk-oss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 About Me
+- 🤖 Currently **learning AI**, pretending to understand backpropagation like it's a lifestyle.
+- 🫠 Was told coding is fun. Still waiting.
+- 🥇 Once debugged something by deleting the entire project and starting over. Victory.
+
+## 🔭 Projects
+- They're **somewhere** between *"just a prototype"* and *"I'll fix it later"*.  
+- If it works on my machine, it’s your machine’s fault.
+
+## 🐍 Skills
+- Python (enemies with `IndentationError`)
+- Jupyter (a.k.a. glorified notebooks for chaos)
+- TensorFlow & PyTorch (used both, confused by both)
+- Git (commits usually titled "final_final_v2_REAL_thisTime")
+
+## 📫 Do **NOT** reach me at:
+`bekhbat.davatseren@torontomu.ca`  
+I’m probably ignoring my inbox anyway.
+
+---
+
+> ⚠️ Warning: May spontaneously start a side project and abandon it in 3 days.
+
