@@ -17,9 +17,7 @@
 - TensorFlow & PyTorch (used both, confused by both)
 - Git (commits usually titled "final_final_v2_REAL_thisTime")
 
-## 📫 Do **NOT** reach me at:
-`bekhbat.davatseren@torontomu.ca`  
-I’m probably ignoring my inbox anyway.
+## 📫 Do **NOT** reach me
 
 ---
 
