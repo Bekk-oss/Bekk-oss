@@ -5,7 +5,7 @@
 ## About Me
 - **learning AI**, pretending to understand backpropagation like it's a lifestyle.
 - Was told coding is fun. Still waiting.
-- Once debugged something by deleting the entire project and starting over. Victory.
+- Once debugged, something by deleting the entire project and starting over. Victory.
 
 ## Projects
 - They're **somewhere** between *"just a prototype"* and *"I'll fix it later"*.  
